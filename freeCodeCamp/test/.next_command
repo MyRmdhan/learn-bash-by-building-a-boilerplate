@@ -287,3 +287,4 @@ find toms-website
 find boilerplate
 find -name boilerplate
 find website-boilerplate
+clear
