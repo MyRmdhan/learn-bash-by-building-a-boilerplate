@@ -288,3 +288,4 @@ find boilerplate
 find -name boilerplate
 find website-boilerplate
 clear
+echo goodbye terminal
