@@ -266,3 +266,5 @@ echo for the freeCodeCamp bash lesson >> README.md
 echo for the freeCodeCamp bash lessons >> README.md
 cat README.md
 more README.md
+pwd
+cd ..
