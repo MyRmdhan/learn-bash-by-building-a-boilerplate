@@ -100,3 +100,8 @@ cd ...
 cd .
 pwd
 cd ..
+cd ../../..
+cd project
+cd freeCodeCamp
+cd node_modules
+cd ../..
