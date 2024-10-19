@@ -232,3 +232,18 @@ find client/assets/fonts
 touch client/assets/fonts/lato-bold.ttf
 touch client/assets/fonts/lato-light.ttf
 find
+cd client/assets
+ls --color=auto
+cd icons
+ls --color=auto
+cd../..
+cd ../..
+cd ..
+rm fonts
+find fonts
+rm roboto.woff/fonts
+rm fonts/roboto.woff
+rm fonts/lato.ttf
+rm fonts/menlo.otf
+rmdir fonts
+rm --help
