@@ -141,3 +141,4 @@ ls --color=auto
 mkdir image
 rmdir image
 mkdir images
+ls --color=auto
