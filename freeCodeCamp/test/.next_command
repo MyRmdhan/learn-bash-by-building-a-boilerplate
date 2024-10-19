@@ -272,3 +272,11 @@ ls --color=auto
 mv website website-boilerplate
 ls --color=auto
 cp --help
+cp --recursive toms-website
+cp -R toms-website
+ls --color=auto
+cp --help
+find
+cp -r boilerplate toms-website
+ls --color=auto
+cp -r website-boilerplate toms-website
