@@ -247,3 +247,6 @@ rm fonts/lato.ttf
 rm fonts/menlo.otf
 rmdir fonts
 rm --help
+mkdir fonts
+touch fonts/eniewf.font
+rm -r fonts
