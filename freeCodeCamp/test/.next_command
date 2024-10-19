@@ -142,3 +142,4 @@ mkdir image
 rmdir image
 mkdir images
 ls --color=auto
+cp background.jpg images
