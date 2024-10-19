@@ -250,3 +250,4 @@ rm --help
 mkdir fonts
 touch fonts/eniewf.font
 rm -r fonts
+ls --color=auto
